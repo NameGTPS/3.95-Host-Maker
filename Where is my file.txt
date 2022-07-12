@@ -1,0 +1,1 @@
+YOUR news.txt is located at (Windows > User > Public ) just copy it and paste in your cpp
